@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"C:\\Users\\pc\\Desktop\\gauge-1.0.0-windows.x86_64\\gauge.exe",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"C:/Users/pc/IdeaProjects/GaugeSampleProject/specs/Verify search button.spec"
+	]
+}

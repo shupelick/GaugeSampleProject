@@ -1,0 +1,250 @@
+01:20:41.862 Plugin java is already installed.
+01:20:41.890 Plugin html-report is already installed.
+01:20:43.001 Checking updates...
+01:20:58.226 [ValidationError] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:10 Connection closed [127.0.0.1:56342] cause: read tcp 127.0.0.1:56335->127.0.0.1:56342: wsarecv: An existing connection was forcibly closed by the remote host. => 'Open Chrome search page'
+01:20:58.226 [ValidationError] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:11 write tcp 127.0.0.1:56335->127.0.0.1:56342: use of closed network connection => 'Verify search button'
+01:21:03.393 Plugin [Html Report] with pid [628] did not exit after 4.00 seconds. Forcefully killing it.
+01:21:03.394 Specifications:	0 executed	0 passed	0 failed	0 skipped
+01:21:03.394 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+01:21:03.395 
+Total time taken: 1.135s
+01:30:39.812 Plugin java is already installed.
+01:30:39.850 Plugin html-report is already installed.
+01:30:41.586 Checking updates...
+01:30:54.413 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Open Chrome search page" > 
+01:30:54.413 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+01:30:54.426 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Verify search button" > 
+01:30:54.426 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+01:30:54.970 [ValidationError] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:3 Connection closed [127.0.0.1:56534] cause: read tcp 127.0.0.1:56527->127.0.0.1:56534: wsarecv: An existing connection was forcibly closed by the remote host. => 'Open Chrome search page'
+01:30:54.970 [ValidationError] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:7 write tcp 127.0.0.1:56527->127.0.0.1:56534: use of closed network connection => 'Verify search button'
+01:30:57.740 Plugin [Html Report] with pid [11320] has exited
+01:30:57.740 Specifications:	0 executed	0 passed	0 failed	0 skipped
+01:30:57.740 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+01:30:57.740 
+Total time taken: 1.421s
+01:36:32.998 Plugin java is already installed.
+01:36:33.021 Plugin html-report is already installed.
+01:36:42.229 Checking updates...
+01:36:52.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome search page" > 
+01:36:52.467 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome search page" parameterizedStepValue:"Open Chrome search page" > > 
+01:36:52.498 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button" > 
+01:36:52.498 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button" parameterizedStepValue:"Verify search button" > > 
+01:37:58.566 Plugin [Html Report] with pid [10344] has exited
+01:37:59.484 Specifications:	0 executed	0 passed	0 failed	0 skipped
+01:37:59.484 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+01:37:59.484 
+Total time taken: 1m5.013s
+01:45:53.478 Plugin java is already installed.
+01:45:53.495 Plugin html-report is already installed.
+01:45:55.175 Checking updates...
+01:46:10.934 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome search page" > 
+01:46:10.934 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome search page" parameterizedStepValue:"Open Chrome search page" > > 
+01:46:10.953 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button" > 
+01:46:10.953 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button" parameterizedStepValue:"Verify search button" > > 
+01:47:13.481 Plugin [Html Report] with pid [9764] has exited
+01:47:14.086 Specifications:	0 executed	0 passed	0 failed	0 skipped
+01:47:14.086 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+01:47:14.086 
+Total time taken: 1m1.52s
+01:58:07.947 Plugin html-report is already installed.
+01:58:07.983 Plugin java is already installed.
+01:58:07.992 [ParseError] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:6 Dynamic parameter <https://www.google.com.ua> could not be resolved => 'Navigate to <https://www.google.com.ua>'
+01:58:07.992 [ParseError] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:7 Dynamic parameter <playtika> could not be resolved => 'Enter query <playtika> in the search box and submit'
+01:58:07.992 [ParseWarning] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:6 Could not resolve special param type <https://www.google.com.ua>. Treating it as dynamic param.
+01:58:08.864 Checking updates...
+01:58:25.138 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua>" > 
+01:58:25.138 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com.ua>" parameters:"https://www.google.com.ua" > > 
+01:58:25.178 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+01:58:25.178 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:01:47.315 Plugin java is already installed.
+02:01:47.318 Plugin html-report is already installed.
+02:01:47.408 [ParseError] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:6 Dynamic parameter <https://www.google.com.ua> could not be resolved => 'Navigate to <https://www.google.com.ua>'
+02:01:47.409 [ParseError] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:7 Dynamic parameter <playtika> could not be resolved => 'Enter query <playtika> in the search box and submit'
+02:01:47.409 [ParseWarning] C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec:6 Could not resolve special param type <https://www.google.com.ua>. Treating it as dynamic param.
+02:01:48.140 Checking updates...
+02:01:58.779 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua>" > 
+02:01:58.780 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com.ua>" parameters:"https://www.google.com.ua" > > 
+02:01:58.815 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+02:01:58.816 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:02:41.464 Plugin [Html Report] with pid [12220] has exited
+02:02:42.067 Specifications:	1 executed	0 passed	1 failed	0 skipped
+02:02:42.067 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+02:02:42.067 
+Total time taken: 41.199s
+02:06:02.124 Plugin java is already installed.
+02:06:02.124 Plugin html-report is already installed.
+02:06:03.053 Checking updates...
+02:06:12.344 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to https://www.google.com.ua" > 
+02:06:12.345 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to https://www.google.com.ua" parameterizedStepValue:"Navigate to https://www.google.com.ua" > > 
+02:06:12.378 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query playtika in the search box and submit" > 
+02:06:12.378 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query playtika in the search box and submit" parameterizedStepValue:"Enter query playtika in the search box and submit" > > 
+02:07:15.263 Plugin [Html Report] with pid [2764] has exited
+02:07:16.179 Specifications:	1 executed	0 passed	1 failed	0 skipped
+02:07:16.179 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+02:07:16.179 
+Total time taken: 1m2.005s
+02:10:39.703 Plugin html-report is already installed.
+02:10:39.795 Plugin java is already installed.
+02:10:40.634 Checking updates...
+02:10:54.535 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to https://www.google.com.ua" > 
+02:10:54.536 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to https://www.google.com.ua" parameterizedStepValue:"Navigate to https://www.google.com.ua" > > 
+02:10:54.557 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query playtika in the search box and submit" > 
+02:10:54.557 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query playtika in the search box and submit" parameterizedStepValue:"Enter query playtika in the search box and submit" > > 
+02:11:36.071 Plugin [Html Report] with pid [1268] has exited
+02:11:36.876 Specifications:	1 executed	0 passed	1 failed	0 skipped
+02:11:36.876 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+02:11:36.876 
+Total time taken: 40.746s
+02:12:23.130 Plugin java is already installed.
+02:12:23.133 Plugin html-report is already installed.
+02:12:24.118 Checking updates...
+02:12:34.988 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to https://www.google.com.ua" > 
+02:12:34.988 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to https://www.google.com.ua" parameterizedStepValue:"Navigate to https://www.google.com.ua" > > 
+02:12:35.009 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query playtika in the search box and submit" > 
+02:12:35.009 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query playtika in the search box and submit" parameterizedStepValue:"Enter query playtika in the search box and submit" > > 
+02:13:08.580 Plugin [Html Report] with pid [1488] has exited
+02:13:11.222 Specifications:	1 executed	0 passed	1 failed	0 skipped
+02:13:11.222 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+02:13:11.222 
+Total time taken: 31.35s
+02:13:38.579 Plugin java is already installed.
+02:13:38.582 Plugin html-report is already installed.
+02:13:39.463 Checking updates...
+02:13:50.800 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to https://www.google.com.ua" > 
+02:13:50.800 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to https://www.google.com.ua" parameterizedStepValue:"Navigate to https://www.google.com.ua" > > 
+02:13:50.828 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query playtika in the search box and submit" > 
+02:13:50.829 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query playtika in the search box and submit" parameterizedStepValue:"Enter query playtika in the search box and submit" > > 
+02:14:23.533 Plugin [Html Report] with pid [2192] has exited
+02:14:24.997 Specifications:	1 executed	0 passed	1 failed	0 skipped
+02:14:24.997 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+02:14:24.997 
+Total time taken: 32.054s
+02:16:27.112 Plugin java is already installed.
+02:16:27.115 Plugin html-report is already installed.
+02:16:29.952 Checking updates...
+02:16:37.950 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to https://www.google.com.ua" > 
+02:16:37.951 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to https://www.google.com.ua" parameterizedStepValue:"Navigate to https://www.google.com.ua" > > 
+02:16:37.979 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query playtika in the search box and submit" > 
+02:16:37.979 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query playtika in the search box and submit" parameterizedStepValue:"Enter query playtika in the search box and submit" > > 
+02:18:03.643 Plugin java is already installed.
+02:18:03.645 Plugin html-report is already installed.
+02:18:04.542 Checking updates...
+02:18:13.886 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to https://www.google.com.ua" > 
+02:18:13.887 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to https://www.google.com.ua" parameterizedStepValue:"Navigate to https://www.google.com.ua" > > 
+02:18:13.918 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query playtika in the search box and submit" > 
+02:18:13.918 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query playtika in the search box and submit" parameterizedStepValue:"Enter query playtika in the search box and submit" > > 
+02:19:26.178 Plugin [Html Report] with pid [3684] has exited
+02:19:26.784 Specifications:	0 executed	0 passed	0 failed	0 skipped
+02:19:26.784 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+02:19:26.784 
+Total time taken: 1m10.965s
+02:22:41.169 Plugin java is already installed.
+02:22:41.172 Plugin html-report is already installed.
+02:22:42.147 Checking updates...
+02:22:51.323 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show <Jupiter> as result" > 
+02:22:51.324 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show {} as result" parameterizedStepValue:"The knowledge graph box should show <Jupiter> as result" parameters:"Jupiter" > > 
+02:22:51.359 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+02:22:51.359 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:22:51.360 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+02:22:51.361 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+02:23:49.145 Plugin [Html Report] with pid [12284] has exited
+02:23:49.651 Specifications:	0 executed	0 passed	0 failed	0 skipped
+02:23:49.651 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+02:23:49.651 
+Total time taken: 56.869s
+02:26:42.807 Plugin java is already installed.
+02:26:42.811 Plugin html-report is already installed.
+02:26:43.835 Checking updates...
+02:26:58.120 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show <Jupiter> as result" > 
+02:26:58.121 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show {} as result" parameterizedStepValue:"The knowledge graph box should show <Jupiter> as result" parameters:"Jupiter" > > 
+02:26:58.163 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+02:26:58.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:26:58.164 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+02:26:58.165 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+02:28:05.692 Plugin [Html Report] with pid [10996] has exited
+02:28:06.396 Specifications:	0 executed	0 passed	0 failed	0 skipped
+02:28:06.396 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+02:28:06.396 
+Total time taken: 1m6.123s
+02:29:49.561 Plugin java is already installed.
+02:29:49.564 Plugin html-report is already installed.
+02:29:50.433 Checking updates...
+02:30:00.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show <Jupiter> as result" > 
+02:30:00.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show {} as result" parameterizedStepValue:"The knowledge graph box should show <Jupiter> as result" parameters:"Jupiter" > > 
+02:30:00.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+02:30:00.603 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:30:00.604 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+02:30:00.604 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+02:30:35.730 Plugin [Html Report] with pid [11332] has exited
+02:30:36.744 Specifications:	1 executed	0 passed	1 failed	0 skipped
+02:30:36.744 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+02:30:36.744 
+Total time taken: 34.202s
+02:33:00.828 Plugin java is already installed.
+02:33:00.831 Plugin html-report is already installed.
+02:33:11.766 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+02:33:11.766 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:33:11.795 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+02:33:11.795 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:33:16.808 Checking updates...
+02:33:55.281 Plugin [Html Report] with pid [4024] has exited
+02:33:56.224 Specifications:	1 executed	1 passed	0 failed	0 skipped
+02:33:56.224 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+02:33:56.224 
+Total time taken: 42.118s
+02:39:40.366 Plugin java is already installed.
+02:39:40.368 Plugin html-report is already installed.
+02:39:41.246 Checking updates...
+02:39:59.280 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+02:39:59.281 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:39:59.326 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button" > 
+02:39:59.327 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button" parameterizedStepValue:"Verify search button" > > 
+02:39:59.328 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+02:39:59.329 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:40:52.497 Plugin [Html Report] with pid [4972] has exited
+02:40:53.201 Specifications:	1 executed	1 passed	0 failed	0 skipped
+02:40:53.201 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+02:40:53.201 
+Total time taken: 51.642s
+02:46:00.307 Plugin java is already installed.
+02:46:00.312 Plugin html-report is already installed.
+02:46:02.429 Checking updates...
+02:46:29.194 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+02:46:29.194 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:46:29.220 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\320\270\321\201\320\272 \320\262 Google>" > 
+02:46:29.221 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\320\270\321\201\320\272 \320\262 Google>" parameters:"\320\237\320\276\320\270\321\201\320\272 \320\262 Google" > > 
+02:46:29.222 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+02:46:29.222 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:47:41.760 Plugin [Html Report] with pid [8260] did not exit after 4.00 seconds. Forcefully killing it.
+02:47:43.975 Specifications:	1 executed	0 passed	1 failed	0 skipped
+02:47:43.975 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+02:47:43.975 
+Total time taken: 1m8.126s
+02:50:40.863 Plugin java is already installed.
+02:50:40.868 Plugin html-report is already installed.
+02:50:41.709 Checking updates...
+02:50:53.527 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+02:50:53.527 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:50:53.557 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\321\210\321\203\320\272 Google>" > 
+02:50:53.558 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\321\210\321\203\320\272 Google>" parameters:"\320\237\320\276\321\210\321\203\320\272 Google" > > 
+02:50:53.559 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+02:50:53.560 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:51:34.542 Plugin [Html Report] with pid [7040] has exited
+02:51:35.546 Specifications:	1 executed	0 passed	1 failed	0 skipped
+02:51:35.546 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+02:51:35.546 
+Total time taken: 40.193s
+02:53:56.170 Plugin java is already installed.
+02:53:56.172 Plugin html-report is already installed.
+02:53:57.182 Checking updates...
+02:54:08.402 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+02:54:08.403 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:54:08.433 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button" > 
+02:54:08.433 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button" parameterizedStepValue:"Verify search button" > > 
+02:54:08.434 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+02:54:08.435 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:54:36.944 Plugin [Html Report] with pid [5900] has exited
+02:54:37.446 Specifications:	1 executed	1 passed	0 failed	0 skipped
+02:54:37.446 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+02:54:37.446 
+Total time taken: 28.125s

@@ -1,0 +1,571 @@
+01:26:58.137 Initializing concepts cache with 0 concepts
+01:26:58.140 Watching directory: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs
+01:26:58.146 Found 2 files
+01:26:58.147 Initializing specs cache with 1 specs
+01:26:58.148 Adding specs from C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:26:58.148 Initializing steps cache with 1 steps
+01:26:58.148 Gauge daemon initialized and listening on port: 56425
+01:28:51.441 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:28:51.443 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:40:28.759 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome search pag" > 
+01:40:28.760 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome search pag" parameterizedStepValue:"Open Chrome search pag" > > 
+01:40:28.761 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome search pag" > 
+01:40:28.762 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome search pag" parameterizedStepValue:"Open Chrome search pag" > > 
+01:40:29.431 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Ch" > 
+01:40:29.431 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Ch" parameterizedStepValue:"Open Ch" > > 
+01:40:30.083 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open" > 
+01:40:30.097 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open" parameterizedStepValue:"Open" > > 
+01:40:30.598 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Op" > 
+01:40:30.598 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Op" parameterizedStepValue:"Op" > > 
+01:40:31.094 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:40:31.094 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:40:31.125 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:40:31.133 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:40:31.134 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:40:31.135 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:40:31.572 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:40:31.572 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:40:31.572 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:40:31.572 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:40:31.587 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:40:31.587 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:40:34.822 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:40:34.823 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:40:57.141 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to \"https://www.google.co.in\"" > 
+01:40:57.184 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+01:40:57.185 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to \"https://www.google.co.in\"" > 
+01:40:57.185 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+01:41:39.498 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:41:39.500 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:45:44.028 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:45:44.032 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:48:08.728 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+01:48:08.830 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+01:48:23.924 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:48:23.924 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:48:23.942 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search buttonOpen Chrome search page" > 
+01:48:23.942 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search buttonOpen Chrome search page" parameterizedStepValue:"Verify search buttonOpen Chrome search page" > > 
+01:48:49.713 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Navigate to <https://www.google.co.in>\"" > 
+01:48:49.713 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}" parameterizedStepValue:"<Navigate to <https://www.google.co.in>>" parameters:"Navigate to <https://www.google.co.in>" > > 
+01:48:53.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:48:53.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:50:27.697 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:50:27.699 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:50:49.125 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+01:50:49.125 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+01:51:35.757 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Enter query <query> in the search box and submit\"" > 
+01:51:35.757 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}" parameterizedStepValue:"<Enter query <query> in the search box and submit>" parameters:"Enter query <query> in the search box and submit" > > 
+01:51:38.044 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+01:51:38.053 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+01:51:45.381 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <que> in the search box and submit" > 
+01:51:45.381 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <que> in the search box and submit" parameters:"que" > > 
+01:51:45.879 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <q> in the search box and submit" > 
+01:51:45.879 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <q> in the search box and submit" parameters:"q" > > 
+01:51:46.567 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query" > 
+01:51:46.570 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query" parameterizedStepValue:"Enter query" > > 
+01:51:48.063 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <p> in the search box and submit" > 
+01:51:48.063 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <p> in the search box and submit" parameters:"p" > > 
+01:51:48.094 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <p> in the search box and submit" > 
+01:51:48.094 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <p> in the search box and submit" parameters:"p" > > 
+01:51:48.126 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <p> in the search box and submit" > 
+01:51:48.126 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <p> in the search box and submit" parameters:"p" > > 
+01:51:48.940 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <p;a> in the search box and submit" > 
+01:51:48.940 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <p;a> in the search box and submit" parameters:"p;a" > > 
+01:51:50.056 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <p;ay> in the search box and submit" > 
+01:51:50.056 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <p;ay> in the search box and submit" parameters:"p;ay" > > 
+01:51:50.933 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <p;ayti> in the search box and submit" > 
+01:51:50.933 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <p;ayti> in the search box and submit" parameters:"p;ayti" > > 
+01:51:52.517 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <p;aytika> in the search box and submit" > 
+01:51:52.530 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <p;aytika> in the search box and submit" parameters:"p;aytika" > > 
+01:51:56.310 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <paytika> in the search box and submit" > 
+01:51:56.310 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <paytika> in the search box and submit" parameters:"paytika" > > 
+01:51:57.120 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+01:51:57.140 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+01:51:57.141 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika> in the search box and submit" > 
+01:51:57.141 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+01:52:07.714 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <> in the search box and submit" > 
+01:52:07.714 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <> in the search box and submit" parameters:"" > > 
+01:52:08.665 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <pl> in the search box and submit" > 
+01:52:08.665 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <pl> in the search box and submit" parameters:"pl" > > 
+01:52:09.186 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <pla> in the search box and submit" > 
+01:52:09.187 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <pla> in the search box and submit" parameters:"pla" > > 
+01:52:10.139 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playt> in the search box and submit" > 
+01:52:10.148 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playt> in the search box and submit" parameters:"playt" > > 
+01:52:10.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playti> in the search box and submit" > 
+01:52:10.850 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playti> in the search box and submit" parameters:"playti" > > 
+01:53:19.084 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:53:19.086 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:54:47.142 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.in>" > 
+01:54:47.142 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com.in>" parameters:"https://www.google.com.in" > > 
+01:54:47.153 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.in>" > 
+01:54:47.154 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com.in>" parameters:"https://www.google.com.in" > > 
+01:54:49.723 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.>" > 
+01:54:49.730 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com.>" parameters:"https://www.google.com." > > 
+01:54:51.219 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.u>" > 
+01:54:51.230 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com.u>" parameters:"https://www.google.com.u" > > 
+01:54:52.106 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua>" > 
+01:54:52.119 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com.ua>" parameters:"https://www.google.com.ua" > > 
+01:56:01.716 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+01:56:01.719 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:04:09.915 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:09.958 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:09.959 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:09.959 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:09.961 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:09.961 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.056 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.071 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.071 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.071 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.075 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.075 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.092 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.092 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.299 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.304 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.305 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.305 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.306 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.306 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.306 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.306 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.307 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.307 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.308 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.309 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.466 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.466 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.484 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.484 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.488 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.488 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.490 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.490 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.491 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.497 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.498 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.498 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.656 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.656 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:10.656 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:10.656 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:11.030 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to https://www.google.com.ua" > 
+02:04:11.030 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to https://www.google.com.ua" parameterizedStepValue:"Navigate to https://www.google.com.ua" > > 
+02:04:15.446 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query playtika in the search box and submit" > 
+02:04:15.450 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query playtika in the search box and submit" parameterizedStepValue:"Enter query playtika in the search box and submit" > > 
+02:04:15.450 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query playtika in the search box and submit" > 
+02:04:15.451 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query playtika in the search box and submit" parameterizedStepValue:"Enter query playtika in the search box and submit" > > 
+02:04:24.264 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika in the search box and submit" > 
+02:04:24.279 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:24.322 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika in the search box and submit" > 
+02:04:24.322 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:24.792 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika in the search box and submit" > 
+02:04:24.803 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:24.804 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika in the search box and submit" > 
+02:04:24.806 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:24.823 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <playtika in the search box and submit" > 
+02:04:24.823 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:28.453 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:28.453 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:28.453 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:28.453 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:28.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:28.864 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:28.880 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:28.880 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:04:28.942 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com.ua" > 
+02:04:28.942 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:05:57.139 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:05:57.143 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:20:26.832 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show \"Jupiter\" as result" > 
+02:20:26.873 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show {} as result" parameterizedStepValue:"The knowledge graph box should show <Jupiter> as result" parameters:"Jupiter" > > 
+02:20:28.606 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"query\" in the search box and submit" > 
+02:20:28.607 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+02:20:33.045 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:20:33.077 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:22:02.419 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show <Jupiter> as result" > 
+02:22:02.420 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show {} as result" parameterizedStepValue:"The knowledge graph box should show <Jupiter> as result" parameters:"Jupiter" > > 
+02:30:59.575 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show \"Jupiter\" as resul" > 
+02:30:59.597 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show {} as resul" parameterizedStepValue:"The knowledge graph box should show <Jupiter> as resul" parameters:"Jupiter" > > 
+02:31:03.161 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show \"Jupiter\" as resu" > 
+02:31:03.162 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show {} as resu" parameterizedStepValue:"The knowledge graph box should show <Jupiter> as resu" parameters:"Jupiter" > > 
+02:31:03.164 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show \"Jupiter\" as resu" > 
+02:31:03.164 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show {} as resu" parameterizedStepValue:"The knowledge graph box should show <Jupiter> as resu" parameters:"Jupiter" > > 
+02:31:03.735 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show" > 
+02:31:03.736 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowledge graph box should show" parameterizedStepValue:"The knowledge graph box should show" > > 
+02:31:04.708 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The knowle" > 
+02:31:04.708 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The knowle" parameterizedStepValue:"The knowle" > > 
+02:31:05.243 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The know" > 
+02:31:05.244 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The know" parameterizedStepValue:"The know" > > 
+02:31:05.693 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The kno" > 
+02:31:05.694 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The kno" parameterizedStepValue:"The kno" > > 
+02:31:06.169 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Th" > 
+02:31:06.169 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Th" parameterizedStepValue:"Th" > > 
+02:31:06.680 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:31:06.680 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:31:11.427 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"que\" in the search box and submit" > 
+02:31:11.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <que> in the search box and submit" parameters:"que" > > 
+02:31:11.863 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"q\" in the search box and submit" > 
+02:31:11.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <q> in the search box and submit" parameters:"q" > > 
+02:31:12.615 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"\" in the search box and submit" > 
+02:31:12.615 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <> in the search box and submit" parameters:"" > > 
+02:31:14.551 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"pla\" in the search box and submit" > 
+02:31:14.551 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <pla> in the search box and submit" parameters:"pla" > > 
+02:31:15.543 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"playt\" in the search box and submit" > 
+02:31:15.543 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playt> in the search box and submit" parameters:"playt" > > 
+02:31:15.988 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"playti\" in the search box and submit" > 
+02:31:15.989 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playti> in the search box and submit" parameters:"playti" > > 
+02:31:17.479 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"playtika\" in the search box and submit" > 
+02:31:17.479 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:32:14.973 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:32:14.977 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:35:43.075 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:35:43.077 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:35:45.405 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.405 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.413 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.413 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.442 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.444 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.590 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.591 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.669 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.670 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.671 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.671 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.742 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.742 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.743 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.743 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.923 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.923 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.924 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.924 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.989 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.989 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:45.990 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:45.990 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.065 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.065 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.066 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.066 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.132 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.132 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.251 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.251 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.252 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.252 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.317 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.317 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.318 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.318 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.397 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.397 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.397 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.397 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.398 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.398 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.398 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.398 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.398 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.399 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.399 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.400 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.566 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.567 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.568 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.601 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.601 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.601 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:46.603 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+02:35:46.603 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+02:35:47.014 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:47.027 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:35:47.037 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:47.037 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:47.573 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ve" > 
+02:35:47.573 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ve" parameterizedStepValue:"Ve" > > 
+02:35:48.038 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:48.038 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:48.038 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:48.039 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:48.112 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:48.112 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:48.113 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:48.113 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:48.225 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Veri" > 
+02:35:48.225 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Veri" parameterizedStepValue:"Veri" > > 
+02:35:49.336 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:49.337 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:35:49.337 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:49.338 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:49.416 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:49.416 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:49.416 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:49.417 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:49.499 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify" > 
+02:35:49.499 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify" parameterizedStepValue:"Verify" > > 
+02:35:52.114 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:52.114 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:52.128 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:52.128 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:52.172 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:52.173 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:52.173 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:52.174 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:52.489 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify se" > 
+02:35:52.489 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify se" parameterizedStepValue:"Verify se" > > 
+02:35:52.690 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:52.691 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:52.692 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:52.692 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:52.915 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify sea" > 
+02:35:52.916 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify sea" parameterizedStepValue:"Verify sea" > > 
+02:35:52.927 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify sea" > 
+02:35:52.927 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify sea" parameterizedStepValue:"Verify sea" > > 
+02:35:53.330 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:53.330 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:53.331 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:53.331 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:53.603 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify sear" > 
+02:35:53.604 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify sear" parameterizedStepValue:"Verify sear" > > 
+02:35:54.333 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:54.333 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:54.334 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:54.334 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:54.384 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:54.384 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+02:35:54.385 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:54.385 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:54.624 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search" > 
+02:35:54.624 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search" parameterizedStepValue:"Verify search" > > 
+02:35:54.636 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search" > 
+02:35:54.636 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search" parameterizedStepValue:"Verify search" > > 
+02:35:55.627 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:55.628 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:55.628 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:55.628 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:55.886 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search b" > 
+02:35:55.886 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search b" parameterizedStepValue:"Verify search b" > > 
+02:35:55.900 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search b" > 
+02:35:55.900 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search b" parameterizedStepValue:"Verify search b" > > 
+02:35:56.700 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:56.701 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:56.701 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:56.701 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:56.772 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:56.772 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:56.774 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:56.774 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:56.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search butt" > 
+02:35:56.851 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search butt" parameterizedStepValue:"Verify search butt" > > 
+02:35:58.463 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:58.463 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:58.464 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:58.464 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:35:58.588 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+02:35:58.588 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <playtika> in the search box and submit" parameters:"playtika" > > 
+02:35:58.589 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+02:35:58.590 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+02:39:30.549 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:39:30.550 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:44:57.654 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button " > 
+02:44:57.654 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button" parameterizedStepValue:"Verify search button" > > 
+02:44:59.355 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button ,." > 
+02:44:59.355 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button ,." parameterizedStepValue:"Verify search button ,." > > 
+02:45:02.144 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <>" > 
+02:45:02.144 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <>" parameters:"" > > 
+02:45:05.361 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\320\270\321\201\320\272 \320\262 Google>" > 
+02:45:05.381 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\320\270\321\201\320\272 \320\262 Google>" parameters:"\320\237\320\276\320\270\321\201\320\272 \320\262 Google" > > 
+02:45:13.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.246 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.256 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.256 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.263 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.263 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.338 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.338 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.339 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.339 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.416 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.416 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.417 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.417 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.417 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.417 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.418 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.418 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.590 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.591 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.592 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.662 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.663 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.664 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.664 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.732 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.732 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.734 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.734 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.910 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.920 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.921 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.921 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.922 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.922 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:13.922 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:13.922 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.050 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.050 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.051 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.051 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.056 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.056 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.057 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.057 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.258 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.258 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.259 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.266 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.267 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.267 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.268 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.268 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.384 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.384 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.385 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.385 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.388 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.388 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:14.389 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"\"" > 
+02:45:14.389 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:45:15.391 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"" > 
+02:45:15.419 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <>" parameters:"" > > 
+02:45:15.419 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\"" > 
+02:45:15.419 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <>" parameters:"" > > 
+02:45:16.614 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\320\270\321\201\320\272 \320\262 Google\"" > 
+02:45:16.614 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\320\270\321\201\320\272 \320\262 Google>" parameters:"\320\237\320\276\320\270\321\201\320\272 \320\262 Google" > > 
+02:45:47.361 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:45:47.374 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:47:51.531 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\320\270\321\201\320\272  Google\"" > 
+02:47:51.531 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\320\270\321\201\320\272  Google>" parameters:"\320\237\320\276\320\270\321\201\320\272  Google" > > 
+02:47:51.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\320\270\321\201 Google\"" > 
+02:47:51.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\320\270\321\201 Google>" parameters:"\320\237\320\276\320\270\321\201 Google" > > 
+02:47:52.366 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276 Google\"" > 
+02:47:52.366 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276 Google>" parameters:"\320\237\320\276 Google" > > 
+02:48:02.520 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Google\"" > 
+02:48:02.520 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\321\210\321\203\320\272 Google>" parameters:"\320\237\320\276\321\210\321\203\320\272 Google" > > 
+02:48:07.374 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:48:07.378 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:48:36.523 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\320\270\321\201\320\272 Google>" > 
+02:48:36.524 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\320\270\321\201\320\272 Google>" parameters:"\320\237\320\276\320\270\321\201\320\272 Google" > > 
+02:48:37.416 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276 Google>" > 
+02:48:37.417 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276 Google>" parameters:"\320\237\320\276 Google" > > 
+02:48:39.111 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\321\210\321\203 Google>" > 
+02:48:39.112 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\321\210\321\203 Google>" parameters:"\320\237\320\276\321\210\321\203 Google" > > 
+02:48:39.604 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\321\210\321\203\320\272 Google>" > 
+02:48:39.604 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify search button {}" parameterizedStepValue:"Verify search button <\320\237\320\276\321\210\321\203\320\272 Google>" parameters:"\320\237\320\276\321\210\321\203\320\272 Google" > > 
+02:51:41.559 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:41.560 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:41.564 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:41.564 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:41.573 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:41.573 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:41.575 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:41.576 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:41.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:41.576 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:41.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:41.576 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:41.577 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:41.577 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.354 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Goo" > 
+02:51:42.354 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.372 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Goo" > 
+02:51:42.372 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.373 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Goo" > 
+02:51:42.373 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.375 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Goo" > 
+02:51:42.375 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.384 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Goo" > 
+02:51:42.384 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.385 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 Goo" > 
+02:51:42.385 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.702 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 G" > 
+02:51:42.703 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.703 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 G" > 
+02:51:42.703 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.713 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 G" > 
+02:51:42.713 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.714 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 G" > 
+02:51:42.714 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.716 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 G" > 
+02:51:42.717 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.717 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 G" > 
+02:51:42.718 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:42.719 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203\320\272 G" > 
+02:51:42.719 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.323 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203" > 
+02:51:43.323 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.324 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203" > 
+02:51:43.324 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.331 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203" > 
+02:51:43.332 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.337 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203" > 
+02:51:43.337 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.337 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203" > 
+02:51:43.337 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.338 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203" > 
+02:51:43.338 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.339 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276\321\210\321\203" > 
+02:51:43.339 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.890 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276" > 
+02:51:43.891 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.892 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276" > 
+02:51:43.893 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:43.900 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"\320\237\320\276" > 
+02:51:43.900 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.212 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.213 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.221 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.221 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.222 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.222 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.227 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.227 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.227 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.228 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.228 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.228 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.230 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.231 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.409 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.409 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.410 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.410 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.411 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.411 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:44.412 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button \"" > 
+02:51:44.413 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"String not terminated" > 
+02:51:50.876 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:50.876 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:51:50.927 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\321\210\321\203\320\272 Googl" > 
+02:51:50.928 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:51:51.282 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\321\210\321\203\320\272 Goo" > 
+02:51:51.283 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:51:51.732 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\321\210\321\203\320\272 G" > 
+02:51:51.732 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:51:52.637 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237\320\276\321\210" > 
+02:51:52.637 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:51:53.014 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify search button <\320\237" > 
+02:51:53.041 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+02:53:50.085 Spec file removed: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
+02:53:50.088 Spec file added / modified: C:\Users\pc\IdeaProjects\GaugeSampleProject\specs\Verify search button.spec
