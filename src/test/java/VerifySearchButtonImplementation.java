@@ -19,7 +19,7 @@ public class VerifySearchButtonImplementation {
 
     @Step("Enter query <playtika> in the search box and submit")
     public void enterQuery(String query) {
-        WebElement searchBox = Driver.driver.findElement(By.name("q"));
+        WebElement searchBox = Driver.driver.findElement(By.xpath("//input[@id='lst-ib']"));
         searchBox.sendKeys(query);
         searchBox.submit();
     }
