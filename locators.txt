@@ -1,0 +1,39 @@
+1. "Buy Now" button
+//*[@id='cashier_buy']
+#cashier_buy
+
+2. Offer selector
+//ul[@class='select']
+ul.select
+
+3. 6th offer in the offer selector
+//ul[@id='select_options']/li[6]
+ul#select_options li:nth-of-type(6)
+
+4. Logo "House of Fun"
+//*[@id='logo']
+#logo
+
+5. "iOS" button
+//*[@id='ios']
+#ios
+
+6. "Android" button
+//*[@id='android']
+#android
+
+7. "Amazon" button
+//*[@id='amazon']
+#amazon
+
+8. "WP" button
+//*[@id='wp']
+#wp
+
+9. "Fun Page" link 
+//a[@id='fanPage']
+a#fanPage
+
+10. Find all coupon coins links
+//a[contains(text(),"bit.ly")]
+a[href*="bit.ly"]
